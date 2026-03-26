@@ -27,5 +27,5 @@ $\epsilon_g$		mittlere Emmisions-Koeffizient
 
 $p_as$		Druck des gesättigten Wasserdampfs, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDc4MTcxMl19
+eyJoaXN0b3J5IjpbMjM4NDExNzAyLDEwNzA3ODE3MTJdfQ==
 -->
