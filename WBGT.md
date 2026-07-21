@@ -12,23 +12,15 @@ $$
 p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot t_a}{243{,}12 + t_a}\right)
 $$
 ***Beispiel***:
-Für $\(T = 20\,^\circ\mathrm{C}\)$:
+Für $(T = 20\,^\circ\mathrm{C}\)$:
 
 $$
 p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot 20}{243{,}12 + 20}\right)
 $$
 
-23
-
-\[
-
-24
-
+$$
 p_{as} \approx 2{,}34\ \mathrm{kPa}
-
-25
-
-\]
+$$
 
 
 
@@ -53,6 +45,6 @@ $\epsilon_g$		mittlere Emmisions-Koeffizient
 
 $p_{as}$		Sättigungsdampfdruck von Wasser in der Luft, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODc0Mjk4NCwtMTYyNDM4MTY0NSw1Nz
+eyJoaXN0b3J5IjpbLTM1OTkxNDkwOCwtMTYyNDM4MTY0NSw1Nz
 gxOTk1NiwyMzg0MTE3MDIsMTA3MDc4MTcxMl19
 -->
