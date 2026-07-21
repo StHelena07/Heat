@@ -27,21 +27,16 @@ Mittlere Strahlungstemperatur:
 $$
 t_r = [(t_g + 273)^4 + \frac{1,1 \cdot 10^8 \cdot v^{0,6}_a}{\epsilon_g \cdot d^{0,4}} (t_g - t_a)]^\frac{1}{4} - 273
 $$
+Können wir 
 ____
 $t_a$		Lufttemperatur, °C
-
 $t_r$		mittlere Strahlungstemperatur, °C
-
 $v_a$		Luftgeschwindigkeit, ms $^{-1}$
-
 RH			Relative Luftfeuchte, %
-
 $d$		Durchmesser der schwarzen Kugel in mm = 15
-
 $\epsilon_g$		mittlere Emmisions-Koeffizient
-
 $p_{as}$		Sättigungsdampfdruck von Wasser in der Luft, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODk3OTI2MCwtMTYyNDM4MTY0NSw1Nz
+eyJoaXN0b3J5IjpbLTc2NjI0OTM0NCwtMTYyNDM4MTY0NSw1Nz
 gxOTk1NiwyMzg0MTE3MDIsMTA3MDc4MTcxMl19
 -->
