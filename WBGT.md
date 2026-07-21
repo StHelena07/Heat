@@ -8,10 +8,9 @@ $$
 $$
 
 Magnus Formel für p_{as}:
-
-
-p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot T}{243{,}12 + T}\right)
-
+$$
+p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot t_a}{243{,}12 + t_a}\right)
+$$
 
 
 Die mittlere Strahlungstemperatur ist gegeben durch:
@@ -34,6 +33,6 @@ $\epsilon_g$		mittlere Emmisions-Koeffizient
 
 $p_{as}$		Druck des gesättigten Wasserdampfs, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTIwOTA1OSwtMTYyNDM4MTY0NSw1Nz
+eyJoaXN0b3J5IjpbMTE5ODg3NzI5NywtMTYyNDM4MTY0NSw1Nz
 gxOTk1NiwyMzg0MTE3MDIsMTA3MDc4MTcxMl19
 -->
