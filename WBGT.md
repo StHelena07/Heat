@@ -7,7 +7,7 @@ $$
 4,18 v^{0,444}_a (t_a  − t_{nw})  + 10^{−8} \cdot [ (t_r  + 273)^4  − (t_{nw} + 273)^4]  −77,1 \cdot v^{0,421}_a [p_{as}(t_nw)  − RH  \cdot p_{as}(t_a)]  = 0 
 $$
 
-Magnus Formel für p_{as}:
+Magnus-Formel für $p_{as}$:
 $$
 p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot t_a}{243{,}12 + t_a}\right)
 $$
@@ -33,6 +33,6 @@ $\epsilon_g$		mittlere Emmisions-Koeffizient
 
 $p_{as}$		Druck des gesättigten Wasserdampfs, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODg3NzI5NywtMTYyNDM4MTY0NSw1Nz
-gxOTk1NiwyMzg0MTE3MDIsMTA3MDc4MTcxMl19
+eyJoaXN0b3J5IjpbLTE4ODg5MDg0NDIsLTE2MjQzODE2NDUsNT
+c4MTk5NTYsMjM4NDExNzAyLDEwNzA3ODE3MTJdfQ==
 -->
