@@ -19,7 +19,7 @@ p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot 20}{243{,}12 + 20}\right)
 $$
 
 $$
-p_{as} \approx 2{,}34\ \mathrm{kPa}
+p_{as} \approx 2{,}34\ kPa
 $$
 
 
@@ -45,6 +45,6 @@ $\epsilon_g$		mittlere Emmisions-Koeffizient
 
 $p_{as}$		Sättigungsdampfdruck von Wasser in der Luft, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDI3MjY5NywtMTYyNDM4MTY0NSw1Nz
-gxOTk1NiwyMzg0MTE3MDIsMTA3MDc4MTcxMl19
+eyJoaXN0b3J5IjpbODQ3MzM4NTUwLC0xNjI0MzgxNjQ1LDU3OD
+E5OTU2LDIzODQxMTcwMiwxMDcwNzgxNzEyXX0=
 -->
