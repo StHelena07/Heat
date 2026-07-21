@@ -12,6 +12,27 @@ $$
 p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot t_a}{243{,}12 + t_a}\right)
 $$
 
+Für $\(T = 20\,^\circ\mathrm{C}\)$:
+
+$$
+p_{as} = 0{,}6112 \cdot \exp\left(\frac{17{,}62 \cdot 20}{243{,}12 + 20}\right)
+
+$$
+
+23
+
+\[
+
+24
+
+p_{as} \approx 2{,}34\ \mathrm{kPa}
+
+25
+
+\]
+
+
+
 
 Die mittlere Strahlungstemperatur ist gegeben durch:
 
@@ -31,8 +52,8 @@ $d$		Durchmesser der schwarzen Kugel in mm = 15
 
 $\epsilon_g$		mittlere Emmisions-Koeffizient
 
-$p_{as}$		Sättigungsdampfdruck , in kPa
+$p_{as}$		Sättigungsdampfdruck von Wasser in der Luft, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzgxNDQ2NTgsLTE2MjQzODE2NDUsNT
+eyJoaXN0b3J5IjpbLTEyNDc1Nzg0MzksLTE2MjQzODE2NDUsNT
 c4MTk5NTYsMjM4NDExNzAyLDEwNzA3ODE3MTJdfQ==
 -->
