@@ -25,7 +25,8 @@ $d$		Durchmesser der schwarzen Kugel in mm = 15
 
 $\epsilon_g$		mittlere Emmisions-Koeffizient
 
-$p_as$		Druck des gesättigten Wasserdampfs, in kPa
+$p_a$		Druck des gesättigten Wasserdampfs, in kPa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NDExNzAyLDEwNzA3ODE3MTJdfQ==
+eyJoaXN0b3J5IjpbLTQ4MTQ3ODU5OSwyMzg0MTE3MDIsMTA3MD
+c4MTcxMl19
 -->
